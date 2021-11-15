@@ -1,0 +1,16 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "selection-sort": "node selection-sort.js",
+    "bubble-sort": "node bubble-sort.js",
+    "insertion-sort": "node insertion-sort.js",
+    "counting-sort": "node counting-sort.js",
+    "merge-sort": "node merge-sort.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
