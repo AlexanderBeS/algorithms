@@ -9,7 +9,11 @@
     "bubble-sort": "node bubble-sort.js",
     "insertion-sort": "node insertion-sort.js",
     "counting-sort": "node counting-sort.js",
-    "merge-sort": "node merge-sort.js"
+    "merge-sort": "node merge-sort.js",
+    "quick-sort": "node quick-sort.js",
+    "sieve": "node sieve-of-eratosthenes.js",
+    "8-queens-function": "node 8-queens-function.js",
+    "sum-array-4-values": "node sum-array-4-values.js"
   },
   "author": "",
   "license": "ISC"
